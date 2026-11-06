@@ -1,1 +1,1 @@
-# Algodat-Singly-Linked-list
+# Algodat-Assignment
